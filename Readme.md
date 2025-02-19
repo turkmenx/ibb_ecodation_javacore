@@ -3,10 +3,18 @@ IBB Ecodation Java Core
 [JDK](https://www.oracle.com/tr/java/technologies/downloads/#jdk23-windows)
 [İntellij Idea Community](https://www.jetbrains.com/idea/download/?section=windows)
 [Git](https://git-scm.com/downloads)
-# Git
+## Git
+'''sh
 git init
 git add .
 git commit -m "add message"
 git push -u origin master
+'''
+---
 
 git clone  https://github.com/turkmenx/ibb_ecodation_javacore.git
+## Java
+''' sh
+
+'''
+---
